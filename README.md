@@ -124,21 +124,7 @@ We welcome all contributions to improve **Collect Your GamingTools**! If you'd l
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 👥 Team
 
-| ![Swaraj Das](https://avatars.githubusercontent.com/u/151845349?v=4&s=80) | ![Anit Sarkar](https://avatars.githubusercontent.com/u/135215478?v=4&s=80) |
-|:--:|:--:|
-| **Swaraj Das** <br> <sub>Project Admin</sub> | **Anit Sarkar** <br> <sub>Maintainer</sub> |
-| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/swarajdas01/) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/anit-sarkar-11906a283/) |
-
-
-
-
-## 🙌 Contributors
-
-![GitHub contributors](https://img.shields.io/github/contributors/swaraj-das/Collect-your-GamingTools)
-
-![Contributors](https://contrib.rocks/image?repo=swaraj-das/Collect-your-GamingTools)
 
 
 ## 🎉 **Join us!**
